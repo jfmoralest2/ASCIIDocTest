@@ -1,0 +1,17 @@
+= Esta es mi primera prueba
+
+== Aqui va la intro
+
+* HRV
+* ECG
+* Respiracion
+
+== Este es el primer slide
+
+Ya se termina esto del doctorado
+
+[.notes]
+--
+* tell anecdote
+* make a point
+--
